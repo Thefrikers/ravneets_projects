@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "234739614308",
+    "firebase_url": "https://acet-cse-assignments-5b269.firebaseio.com",
+    "project_id": "acet-cse-assignments-5b269",
+    "storage_bucket": "acet-cse-assignments-5b269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234739614308:android:b6179dafd1c8242a",
+        "android_client_info": {
+          "package_name": "com.r.acetcseassignments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234739614308-nsfgk5ichjt6lun1e9r5lfpn8n79h2ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrNry9LoRjj8TfnyNHs5QcJP-evaGlRTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
