@@ -1,0 +1,4 @@
+Class Radar is a phone application developed by Ravneet Singh. I personally used it and its very interactive and responsive. 
+It is developed in Android studio using Java.
+
+if you are going to run this code in your own system be specific with the versions of android and the requirements of this application. Otherwise its not gonna work.
